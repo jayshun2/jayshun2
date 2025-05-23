@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything I can help with. Problem solving is my forte
 - 📫 How to reach me: LinkedIn.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: cheese
+- ⚡ Fun fact: Hamburgers typically dont have ham.
 
 <!---
 jayshun2/jayshun2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
