@@ -19,7 +19,7 @@ I'm a **Cloud Technologist | Entrepreneur | Builder** on a mission to engineer s
 
 ## 🔥 My Core Projects
 
-* [Cloud Resume Challenge](https://github.com/JayFrench/cloud-resume-challenge) — Full CI/CD static site with Terraform and CloudFront. Visit the project live [here](https://crc.awsportfolio.jayfrench.cloud).
+* [Cloud Resume Challenge](https://github.com/JayFrench/cloud-resume-challenge) — (Currently a private repo. Will make public after completed security audit) Full CI/CD static site with Terraform and CloudFront. Visit the project live [here](https://crc.awsportfolio.jayfrench.cloud).
 * [Weekly AWS Projects](https://github.com/jayshun2/jayshun_aws_portfolio) — One cloud build every week in 2025-2026. 52 Projects, 52 weeks.
 
 ---
