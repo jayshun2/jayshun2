@@ -20,7 +20,7 @@ I'm a **Cloud Technologist | Entrepreneur | Builder** on a mission to engineer s
 ## 🔥 My Core Projects
 
 * [Cloud Resume Challenge](https://github.com/jayshun2/Cloud-Resume-Challenge) — (Near Complete, missing API gateway) Full CI/CD static site with Terraform and CloudFront. Visit the project live [here](https://crc.awsportfolio.jayfrench.cloud).
-* [Terraform-Driven AWS Account Baseline](https://github.com/jayshun2/aws-account-baseline-terraform) — (Production-Grade)(Currently Private - Under Construction)
+* [Terraform-Driven AWS Account Baseline](https://github.com/jayshun2/aws-account-baseline-terraform) — (Production-Grade)(Under Construction)
 * [CI/CD Pipeline with GitHub Actions → AWS (No Console Clicks)](https://github.com/jayshun2/github-actions-aws-ci-cd) — (Currently Private - Under Construction)
 * [Immutable Logging & Compliance Archive (DevOps + Security)](https://github.com/jayshun2/aws-immutable-logging-pipeline) — (Currently Private - Under Construction)
 * [Containerized App with ECS + Blue/Green Deployment](https://github.com/jayshun2/ecs-blue-green-deployment) — (Currently Private - Under Construction)
