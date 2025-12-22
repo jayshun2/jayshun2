@@ -20,11 +20,11 @@ I'm a **Cloud Technologist | Entrepreneur | Builder** on a mission to engineer s
 ## 🔥 My Core Projects
 
 * [Cloud Resume Challenge](https://github.com/JayFrench/cloud-resume-challenge) — (Currently a private repo. Will make public after completed security audit) Full CI/CD static site with Terraform and CloudFront. Visit the project live [here](https://crc.awsportfolio.jayfrench.cloud).
-* [Terraform-Driven AWS Account Baseline (Production-Grade)(Currently Private - Under Construction)](https://github.com/jayshun2/aws-account-baseline-terraform)
-* [CI/CD Pipeline with GitHub Actions → AWS (No Console Clicks)(Currently Private - Under Construction)](https://github.com/jayshun2/github-actions-aws-ci-cd)
-* [Immutable Logging & Compliance Archive (DevOps + Security)(Currently Private - Under Construction)](https://github.com/jayshun2/aws-immutable-logging-pipeline)
-* [Containerized App with ECS + Blue/Green Deployment (Currently Private - Under Construction)](https://github.com/jayshun2/ecs-blue-green-deployment)
-* [Monitoring, Alerts, and Auto-Remediation (Currently Private - Under Construction)](https://github.com/jayshun2/aws-observability-auto-remediation)
+* [Terraform-Driven AWS Account Baseline](https://github.com/jayshun2/aws-account-baseline-terraform) — (Production-Grade)(Currently Private - Under Construction)
+* [CI/CD Pipeline with GitHub Actions → AWS (No Console Clicks)](https://github.com/jayshun2/github-actions-aws-ci-cd) — (Currently Private - Under Construction)
+* [Immutable Logging & Compliance Archive (DevOps + Security)](https://github.com/jayshun2/aws-immutable-logging-pipeline) — (Currently Private - Under Construction)
+* [Containerized App with ECS + Blue/Green Deployment](https://github.com/jayshun2/ecs-blue-green-deployment) — (Currently Private - Under Construction)
+* [Monitoring, Alerts, and Auto-Remediation](https://github.com/jayshun2/aws-observability-auto-remediation) — (Currently Private - Under Construction)
 
 ---
 
