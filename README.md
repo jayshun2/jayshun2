@@ -13,7 +13,7 @@ I'm a **Cloud Technologist | Entrepreneur | Builder** on a mission to engineer s
   I turn theory into action — from wiring enterprise networks to launching digital products. My lab is where ideas meet execution.
 
 * 📚 **Lifelong Learner**
-  B.S. in IT from WGU. CompTIA Trifecta and AWS SAA + DVA, Working on SOA. Next up: MBA and advanced certs in security, automation, and AI.
+  B.S. in IT from WGU. CompTIA Trifecta and AWS SAA + DVA, Working on DOP and CCNP + ENARSI. Next up: Advanced certs in networking, automation, and AI.
 
 ---
 
